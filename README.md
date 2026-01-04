@@ -27,10 +27,12 @@
 
 ## ⚙️ GitHub Analytics
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/sabasalehi001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sabasalehi001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabasalehi001&layout=compact&langs_count=8&theme=algolia"/>
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sabasalehi001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="sabasalehi001's GitHub stats" height="192px" />
+  </a>
+  <a href="https://github.com/sabasalehi001">
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabasalehi001&layout=compact&langs_count=8&theme=algolia" alt="sabasalehi001's Top Langs" height="192px" />
   </a>
 </p>
 
